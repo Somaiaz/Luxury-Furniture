@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lustrous-bubblegum-cdbbf2.netlify.app/sitemap.xml
